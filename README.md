@@ -22,7 +22,7 @@ as mães.
 ### Home Gravidez:
 
 🏡 A HomePage em desenvolvimento conta com as principais funcionalidades da nova implementação, contendo as
-informações mais relevantes para as mulheres, além de um modelo do bebê que se adapta com o avanço da gestação. 
+informações mais relevantes para as mulheres, além de um modelo 3D do bebê que se adapta com o avanço da gestação. 
 Também contém a funcionalidade de calendário de vacina, assim como registro diário (alimentação, sintomas, humor,
 etc).
 
