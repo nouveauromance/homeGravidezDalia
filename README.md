@@ -35,8 +35,8 @@ etc).
 ## Autores (equipe Dália)
 
 - [@Ana Beatriz](https://github.com/ana-bia07)
-- [@Guilherme](https://github.com/)
+- [@Guilherme](https://github.com/GuilhermeAraujo198)
 - [@Natali](https://github.com/nouveauromance)
-- [@Rayane](https://github.com/nouveauromance)
+- [@Rayane](https://github.com/RayaneBarrosM)
 
 📍 Fatec Diadema Luigi Papaiz 
