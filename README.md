@@ -11,7 +11,7 @@ auxílio para mulheres em situação de risco.
 período gestacional), além de um sistema/botão de alerta para ajuda às mulheres em situações de risco
 (abuso físico ou mental, agressão ou qualquer situação de perigo).
 
-### Novas funcionalidades:
+### Nova funcionalidade:
 
 🌱 Atualmente, o projeto se encontra em desenvolvimento e implementação de uma nova funcionalidade: acompanhamento
 gestacional.
@@ -46,3 +46,5 @@ etc).
 - [@Rayane](https://github.com/RayaneBarrosM)
 
 📍 Fatec Diadema Luigi Papaiz 
+
+⚠️ Todos os direitos reservados à equipe Dália
