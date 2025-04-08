@@ -34,7 +34,7 @@ etc).
     
 ## Autores (equipe Dália)
 
-- [@Ana Beatriz](https://github.com/nouveauromance)
+- [@Ana Beatriz](https://github.com/ana-bia07)
 - [@Guilherme](https://github.com/)
 - [@Natali](https://github.com/nouveauromance)
 - [@Rayane](https://github.com/nouveauromance)
