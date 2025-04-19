@@ -44,7 +44,7 @@
         border: 1px solid #ccc;
         border-radius: 5%;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        background-image: url(/img/navbar/Gradient.png);
+        background-image: url(/img/home_img/gradiente.png);
     }
 
     .dropdown-menu.show {
