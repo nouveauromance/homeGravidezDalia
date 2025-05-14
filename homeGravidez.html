@@ -33,15 +33,21 @@
     <model-viewer
       id="bebe"
       src="./modelo3d/fetus.glb" 
-      autoplay 
+      alt="Modelo 3D do bebê"
       camera-controls 
       disable-zoom 
+      disable-pan 
+      disable-tap 
       auto-rotate
-      alt="Modelo 3D do bebê" 
+      interaction-prompt="none"
+      touch-action="none"
+      disable-rotation
+      field-of-view="30deg"
       shadow-intensity="1" 
       environment-image="neutral"
       style="width: 100%; height: 500px;"
-></model-viewer>
+      scale="0.15 0.15 0.15"
+    ></model-viewer>
   </section>
   <section class="saude">
     <h2>Sobre a sua saúde e a do seu bebê:</h2>
@@ -51,31 +57,48 @@
       <button>Alimentação</button>
     </div>
   </section>
- 
+
   <section class="registro">
     <h3>Registro Diário</h3>
     <p>Informações necessárias para o acompanhamento</p>
     <div class="botoes-registro">
-        <table>
-            <ul>
-                <li>
-                    <button>Registrar Agora</button>
-                </li>
-                <li>
-                    <button>Ver Registros</button>
-                </li>
-            </ul>
-        </table>
+      <button>Registrar Agora</button>
+      <button>Ver Registros</button>
     </div>
   </section>
- 
+
   <section class="informacoes">
-    <div class="card">Hábitos que auxiliam mães a se adaptarem a uma nova rotina</div>
-    <div class="card">Alimentos essenciais para o desenvolvimento saudável do feto</div>
-    <div class="card">Exercícios permitidos durante o período de gestação</div>
-    <div class="card">Saúde Mental: como a terapia pode ajudar nesse momento?</div>
+    <div class="cards-container">
+      <a href="https://www.clinicaceu.com.br/blog/gravidez-saudavel-dicas-imperdiveis-futuras-mamaes/">
+        <div class="card card1" style="background-color: #CDD9B2;">
+          <p>Hábitos que auxiliam mães a se adaptarem a uma nova rotina.</p>
+          <img src="./img/home_img/mulher grávida.png">
+        </div>
+      </a>
+      
+      <a href="https://www.gazetadopovo.com.br/conteudo-publicitario/veg-e-lev/alimentacao-saudavel-gravidez/">
+        <div class="card card2" style="background-color: #E3C3D8;">
+          <p>Alimentos essenciais para o desenvolvimento saudável do feto.</p>
+          <img src="./img/home_img/alimentos.png">
+        </div>
+      </a>
+
+      <a href="https://www.scielo.br/j/rbgo/a/6kMvyttht3c5Z334j68N7jQ#:~:text=Nesse%20per%C3%ADodo%2C%20atividades%20aer%C3%B3bicas%20na,na%20prepara%C3%A7%C3%A3o%20para%20o%20parto.">
+        <div class="card card3" style="background-color: #FEDBA5;">
+          <p>Exercícios permitidos para mães durante a gestação.</p>
+          <img src="./img/home_img/mulher se exercitando.png">
+        </div>
+      </a>
+
+      <a href="https://institutonascer.com.br/psicologo-para-gestantes/#:~:text=Redu%C3%A7%C3%A3o%20da%20ansiedade%20e%20estresse,forma%20mais%20profunda%20e%20consciente.">
+        <div class="card card4" style="background-color: #FFC29E;">
+          <p>Saúde Mental: como a terapia pode ajudar nesse momento?</p>
+          <img src="./img/home_img/saúde mental.png">
+        </div>
+      </a>
+    </div>
   </section>
- 
+
   <footer class="footer">
     <div class="footer-content">
         <img src="./img/navbar/Logo_dalia.png" alt="logo dália" class="footer-logo">
