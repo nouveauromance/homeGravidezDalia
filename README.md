@@ -24,7 +24,10 @@ bebês, ligando com o registro diário e o calendário de vacinação constantem
 
 ## Instalação:
 
-📌 Instale clonando o repositório
+📌 Instale clonando o repositório:
+```bash
+  git clone https://github.com/nouveauromance/homeGravidezDalia.git
+```
     
 ## Autores (equipe Dália)
 
